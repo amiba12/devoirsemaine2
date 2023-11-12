@@ -1,0 +1,38 @@
+/* Styles pour l'élément nav */
+nav {
+    background-color: #3498db;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  /* Styles pour l'élément header */
+  header {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Styles pour l'élément main */
+  main {
+    padding: 20px;
+  }
+  
+  /* Styles pour le lien "Passer au contenu principal" */
+  .skip-to-content {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
